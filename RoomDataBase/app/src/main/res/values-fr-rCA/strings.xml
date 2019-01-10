@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <string name="enter_name">Entrez le nom</string>
+    <string name="enter_id">Entrer l\'identifiant</string>
+    <string name="submit">Soumettre</string>
+    <string name="insert">Insérer</string>
+    <string name="read">lis</string>
+    <string name="by_id">par id:</string>
+    <string name="enter_data">Entrer des données:</string>
+    <string name="by_name">De nom</string>
+</resources>

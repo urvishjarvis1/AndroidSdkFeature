@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font android:fontStyle="normal" android:fontWeight="800" android:font="@font/shadowsintolight"/>
+
+    <font android:fontStyle="italic" android:fontWeight="800" android:font="@font/amaticsc_regular"/>
+</font-family>

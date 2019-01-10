@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoSizingTextView</string>
+    <string name="granularity_texview_autoresizing_demo">Granularity TexView AutoResizing Demo</string>
+    <string name="preset_sizes_demo">Preset Size demo</string>
+</resources>

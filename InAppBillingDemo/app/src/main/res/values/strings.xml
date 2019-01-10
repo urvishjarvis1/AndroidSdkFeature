@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InAppBillingDemo</string>
+    <string name="purchase_item">Purchase Item</string>
+    <string name="cancle_purchase">Cancle purchase</string>
+    <string name="unavailable_purchase">unavailable purchase</string>
+    <string name="consume_item">Consume Item</string>
+</resources>

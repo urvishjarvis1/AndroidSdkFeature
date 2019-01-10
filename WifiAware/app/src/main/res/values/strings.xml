@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WifiAware</string>
+    <string name="publish_service">Publish Service</string>
+    <string name="subscribe_service">Subscribe Service</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RoomDataBase</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_id">Enter Id</string>
+    <string name="submit">Submit</string>
+    <string name="insert">Insert</string>
+    <string name="read">Read</string>
+    <string name="by_id">By Id:</string>
+    <string name="enter_data">Enter Data:</string>
+    <string name="by_name">By Name</string>
+    <string name="readall">Read All</string>
+    <string name="table">Select Table</string>
+    <string name="enter_user_id">Enter User id</string>
+    <string name="enter_type">Enter Type</string>
+    <string name="readjoin">Read JoinData</string>
+    <string-array name="tables">
+        <item>Pet</item>
+        <item>user</item>
+    </string-array>
+</resources>

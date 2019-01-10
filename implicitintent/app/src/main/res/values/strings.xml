@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">implicit intent</string>
+    <string name="share">share</string>
+    <string name="maps">maps</string>
+    <string name="go_to">Go to</string>
+    <string name="http_www_google_com">http://www.google.com</string>
+    <string name="volansys_technologies">Volansys Technologies</string>
+    <string name="hi_there_sharing_from_my_app">Hi there!Sharing from my app!</string>
+</resources>
